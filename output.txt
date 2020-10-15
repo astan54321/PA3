@@ -1,1 +1,10 @@
-"max petal width"	2.5
+4990	"the"
+2619	"and"
+2554	"to"
+2108	"a"
+2030	"of"
+1827	"he"
+1825	"harry"
+1649	"was"
+1470	"his"
+1436	"said"
